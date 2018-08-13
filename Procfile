@@ -1,0 +1,1 @@
+web: java -jar target/demo-prestamos247.jar
